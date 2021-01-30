@@ -1,0 +1,60 @@
+
+#header{
+    font-size: 25px;
+}
+
+#footer{
+    padding-top: 150px;
+    padding-bottom: 60px;
+    font-size: 25px;
+}
+
+a{
+    color: black;
+}
+
+h1{
+    font-size: 160px;
+}
+
+.p-special{
+    font-size: 40px;
+}
+
+.visina70{
+    height: 70%;
+}
+
+.visina30{
+    height: 30%;
+}
+
+.title-margin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 110px;
+}
+
+h3{
+    font-size: 35px;
+}
+
+.services-margin{
+    margin-top: 50px;
+    margin-bottom: 160px;
+}
+
+.boxes-radius{
+    border-radius: 25px;
+}
+
+.box-fix{
+    padding-top: 35px;
+}
+
+.workProcess-bottom{
+    padding-bottom: 250px;
+}
